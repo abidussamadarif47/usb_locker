@@ -1,4 +1,4 @@
-# USB LockIt (Python clone)
+# USB Locker
 
 A simple cross‑platform GUI tool (Tkinter) to **LOCK** (encrypt) or **UNLOCK** (decrypt) a folder (e.g., your USB drive root) using **AES‑256‑GCM** with **scrypt** key derivation.
 
